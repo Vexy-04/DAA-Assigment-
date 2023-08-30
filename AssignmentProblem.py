@@ -24,8 +24,6 @@ for i in range(len(row_indices)):
 
 print("Total Cost:", total_cost)
 
-
-
 """Output:
 
 Assignment:
